@@ -1,0 +1,92 @@
+initialize network with normal
+initialize network with normal
+initialize network with normal
+Encoder num_parameters: 46775392
+Decoder num_parameters: 1592322
+Discriminator num_parameters: 2764609
+epoch 1 AE_total 4.3590568006e-02 (4.3820610718e-02)
+Estimated remaining training time: 223.395337155 Hours
+epoch 2 AE_total 6.4842440188e-02 (6.4095994527e-02)
+Estimated remaining training time: 220.3207906472222 Hours
+epoch 3 AE_total 1.0093179531e-02 (1.0507505586e-02)
+Estimated remaining training time: 220.12812850000003 Hours
+epoch 4 AE_total 1.4502702653e-01 (1.4566573278e-01)
+Estimated remaining training time: 219.89560816333335 Hours
+epoch 5 AE_total 2.2865517065e-02 (2.2732128733e-02)
+Estimated remaining training time: 220.38618976527778 Hours
+epoch 6 AE_total 2.3599317297e-02 (2.3899060659e-02)
+Estimated remaining training time: 220.09986936 Hours
+epoch 7 AE_total 2.6999343187e-02 (2.6741770081e-02)
+Estimated remaining training time: 219.03641608833334 Hours
+epoch 8 AE_total 2.0263737068e-02 (2.0591596420e-02)
+Estimated remaining training time: 219.27573204444442 Hours
+epoch 9 AE_total 1.7966210842e-02 (1.8020313273e-02)
+Estimated remaining training time: 218.16485447 Hours
+epoch 10 AE_total 1.3561369851e-02 (1.3427743977e-02)
+Estimated remaining training time: 218.27189422499998 Hours
+epoch 11 AE_total 8.7242806330e-03 (8.8333414300e-03)
+Estimated remaining training time: 217.71021146527778 Hours
+epoch 12 AE_total 7.8738052398e-03 (7.8622680531e-03)
+Estimated remaining training time: 217.20771516888888 Hours
+epoch 13 AE_total 7.9379398376e-03 (7.8902556461e-03)
+Estimated remaining training time: 216.78850270583334 Hours
+epoch 14 AE_total 7.5630694628e-03 (7.5542949673e-03)
+Estimated remaining training time: 217.12950801888888 Hours
+epoch 15 AE_total 8.3303172141e-03 (8.2020791108e-03)
+Estimated remaining training time: 216.14021437638888 Hours
+epoch 16 AE_total 8.4228618070e-03 (8.3795792229e-03)
+Estimated remaining training time: 217.66869222666665 Hours
+epoch 17 AE_total 8.0600203946e-03 (8.0728143962e-03)
+Estimated remaining training time: 215.8866216488889 Hours
+epoch 18 AE_total 7.9327523708e-03 (7.8855139442e-03)
+Estimated remaining training time: 215.62478857777776 Hours
+epoch 19 AE_total 7.9560056329e-03 (8.0139860013e-03)
+Estimated remaining training time: 216.0684728575 Hours
+epoch 20 AE_total 7.7140107751e-03 (7.6524462616e-03)
+Estimated remaining training time: 216.15651314444446 Hours
+epoch 21 AE_total 8.1121893600e-03 (8.1237432333e-03)
+Estimated remaining training time: 215.44534825 Hours
+epoch 22 AE_total 8.4149446338e-03 (8.3715091933e-03)
+Estimated remaining training time: 215.10298151333333 Hours
+epoch 23 AE_total 7.4245678261e-03 (7.5000610506e-03)
+Estimated remaining training time: 215.39831178555556 Hours
+epoch 24 AE_total 7.7484324574e-03 (7.7401858301e-03)
+Estimated remaining training time: 215.36816946222223 Hours
+epoch 25 AE_total 7.8075975180e-03 (7.7506738197e-03)
+Estimated remaining training time: 214.39002027083333 Hours
+epoch 26 AE_total 7.2216913104e-03 (7.2167581918e-03)
+Estimated remaining training time: 214.3930803177778 Hours
+epoch 27 AE_total 7.7289287001e-03 (7.7905490506e-03)
+Estimated remaining training time: 213.38723671805556 Hours
+epoch 28 AE_total 7.4198460206e-03 (7.4280856531e-03)
+Estimated remaining training time: 213.58418256000002 Hours
+epoch 29 AE_total 7.8836297616e-03 (7.8639100296e-03)
+Estimated remaining training time: 212.38258726944446 Hours
+epoch 30 AE_total 8.1251608208e-03 (8.1632584682e-03)
+Estimated remaining training time: 212.85268558333334 Hours
+epoch 31 AE_total 8.0240974203e-03 (7.9932514538e-03)
+Estimated remaining training time: 213.411301915 Hours
+epoch 32 AE_total 7.7981697395e-03 (7.8014214648e-03)
+Estimated remaining training time: 212.9252176088889 Hours
+epoch 33 AE_total 7.1705467999e-03 (7.1908697775e-03)
+Estimated remaining training time: 212.8978503938889 Hours
+epoch 34 AE_total 8.0315321684e-03 (8.0571204105e-03)
+Estimated remaining training time: 212.68166063666663 Hours
+epoch 35 AE_total 7.4786725454e-03 (7.4392607321e-03)
+Estimated remaining training time: 212.2089744986111 Hours
+epoch 36 AE_total 7.4808411300e-03 (7.5193319574e-03)
+Estimated remaining training time: 212.22779378555555 Hours
+epoch 37 AE_total 7.7086505480e-03 (7.7196113556e-03)
+Estimated remaining training time: 212.29555286250002 Hours
+epoch 38 AE_total 7.2254366241e-03 (7.1786330953e-03)
+Estimated remaining training time: 211.09012961833335 Hours
+epoch 39 AE_total 7.4313483201e-03 (7.4651788915e-03)
+Estimated remaining training time: 211.02557837166668 Hours
+epoch 40 AE_total 7.4927350506e-03 (7.5005240176e-03)
+Estimated remaining training time: 210.9988816 Hours
+epoch 41 AE_total 7.1389176883e-03 (7.1336395720e-03)
+Estimated remaining training time: 211.31790604749997 Hours
+epoch 42 AE_total 6.8837990984e-03 (6.9037234849e-03)
+Estimated remaining training time: 212.33309135111114 Hours
+epoch 43 AE_total 6.8752910011e-03 (6.8848101213e-03)
+Estimated remaining training time: 210.77492249916668 Hours

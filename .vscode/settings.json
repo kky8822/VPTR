@@ -1,0 +1,9 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": false,
+  "python.linting.flake8Enabled": false,
+  "editor.formatOnSave": true,
+  "python.analysis.extraPaths": [
+    "./dataset/navier-stokes-255-12000"
+  ]
+}

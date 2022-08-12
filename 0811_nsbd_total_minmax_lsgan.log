@@ -1,0 +1,30 @@
+initialize network with normal
+initialize network with normal
+initialize network with normal
+Encoder num_parameters: 46791072
+Decoder num_parameters: 1608007
+Discriminator num_parameters: 2769729
+epoch 1 AE_total 1.3817855157e-02 (1.5521537488e-02)
+Estimated remaining training time: 551.8755800475001 Hours
+epoch 2 AE_total 1.1064903811e-02 (1.1047777143e-02)
+Estimated remaining training time: 552.8340688722222 Hours
+epoch 3 AE_total 2.0318547264e-02 (1.7813725281e-02)
+Estimated remaining training time: 553.1115908552778 Hours
+epoch 4 AE_total 7.2894445620e-03 (7.1206197305e-03)
+Estimated remaining training time: 547.7943175433332 Hours
+epoch 5 AE_total 4.8201857135e-03 (6.9755585646e-03)
+Estimated remaining training time: 546.511249536111 Hours
+epoch 6 AE_total 1.7976365983e-02 (1.8280907117e-02)
+Estimated remaining training time: 580.03151871 Hours
+epoch 7 AE_total 8.8412510231e-03 (9.2706601026e-03)
+Estimated remaining training time: 546.3957040583334 Hours
+epoch 8 AE_total 5.4229279049e-03 (5.5525813502e-03)
+Estimated remaining training time: 548.1257050222222 Hours
+epoch 9 AE_total 4.3883714825e-03 (4.1707608749e-03)
+Estimated remaining training time: 545.8821038858333 Hours
+epoch 10 AE_total 8.9852381498e-03 (9.2636090437e-03)
+Estimated remaining training time: 546.33546 Hours
+epoch 11 AE_total 1.7951801419e-02 (1.8358349917e-02)
+Estimated remaining training time: 545.7328670033334 Hours
+epoch 12 AE_total 6.8313940428e-03 (6.8177252930e-03)
+Estimated remaining training time: 544.3308894833334 Hours

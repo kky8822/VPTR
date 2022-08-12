@@ -1,0 +1,24 @@
+initialize network with normal
+initialize network with normal
+initialize network with normal
+Encoder num_parameters: 46791072
+Decoder num_parameters: 1608007
+Discriminator num_parameters: 2769729
+epoch 1 AE_total 4.0776824951e-01 (4.1020140322e-01)
+Estimated remaining training time: 553.2174690375 Hours
+epoch 2 AE_total 1.7826858163e-01 (3.7221414808e-01)
+Estimated remaining training time: 553.7471382405556 Hours
+epoch 3 AE_total 2.5551247597e-01 (3.6123788343e-01)
+Estimated remaining training time: 549.8159223333334 Hours
+epoch 4 AE_total 3.7576219440e-01 (3.8037070996e-01)
+Estimated remaining training time: 552.79549361 Hours
+epoch 5 AE_total 3.1049793959e-01 (3.5854128305e-01)
+Estimated remaining training time: 996.0053504875 Hours
+epoch 6 AE_total 2.1987365186e-01 (3.4841507512e-01)
+Estimated remaining training time: 970.4401426961111 Hours
+epoch 7 AE_total 4.1161730886e-01 (3.4618732033e-01)
+Estimated remaining training time: 544.0798311133333 Hours
+epoch 8 AE_total 4.2022299767e-01 (3.4357770056e-01)
+Estimated remaining training time: 548.4713183733332 Hours
+epoch 9 AE_total 2.1654653549e-01 (3.4256090534e-01)
+Estimated remaining training time: 547.7550779197222 Hours
